@@ -1,0 +1,10 @@
+langchain
+langchain_groq
+streamlit
+groq
+python-dotenv
+fastapi
+uvicorn
+langserve
+sse_starlette
+langchain_community

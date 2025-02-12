@@ -1,0 +1,10 @@
+langchain
+groq
+python-dotenv
+streamlit      # For UI (optional)
+gradio         # For UI (optional)
+pypdf          # For loading PDFs (optional, for RAG)
+faiss-cpu      # For vector storage (optional, for RAG)
+sentence-transformers  # For embeddings (optional, for RAG)
+tiktoken       # Token counting (optional)
+langchain-memory
