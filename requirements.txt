@@ -1,0 +1,20 @@
+langchain_groq
+groq
+langchain_community
+langchain
+langchainhub
+streamlit
+chromadb
+faiss-cpu
+weaviate
+pinecone-client
+qdrant-client
+unstructured
+pypdf
+pdfplumber
+python-docx
+tqdm
+beautifulsoup4
+sentence-transformers
+
+## some of them are for future uses
