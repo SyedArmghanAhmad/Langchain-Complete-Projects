@@ -96,16 +96,6 @@ st.set_page_config(
 }
 """
 ```
-
-## 📈 Performance Benchmarks
-
-| Metric                  | Value        |
-|-------------------------|--------------|
-| Query Response Time     | <800ms       |
-| Chunk Processing Speed  | 250 docs/sec |
-| Accuracy (Precision@5)  | 92.4%        |
-| Context Window          | 32k tokens   |
-
 ## 🤝 Contributing
 
 We welcome enterprise-grade contributions:
