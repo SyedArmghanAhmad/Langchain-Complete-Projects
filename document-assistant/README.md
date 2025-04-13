@@ -36,8 +36,8 @@ Before running the app, ensure you have the following installed:
 1. **Clone the Project**:
 
    ```bash
-   git clone <your-repo-url>
-   cd document-assistant
+   git clone https://github.com/SyedArmghanAhmad/Langchain-Complete-Projects.git
+   cd Langchain-Complete-Projects/document-assistant
    ```
 
 2. **Set Up Environment Variables**:
