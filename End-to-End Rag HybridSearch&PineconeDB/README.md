@@ -18,6 +18,11 @@
 1. **Install Dependencies**
 
 ```bash
+git clone https://github.com/SyedArmghanAhmad/Langchain-Complete-Projects.git
+cd Langchain-Complete-Projects/End-to-End-Rag-HybridSearch-PineconeDB
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
